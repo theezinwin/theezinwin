@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theezinwin
 - 👀 I’m interested in data analyzing and reporting.
 - 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on data analyze projects.
 - 📫 How to reach me ...theezinwin.hmlATgmail.com
 
 <!---
